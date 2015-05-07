@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Face Alchemy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture1">Take First Photo</string>
+    <string name="capture2">Take Second Photo</string>
+    <string name="debug">Debug</string>
+    <string name="morph">Morph</string>
+    <string name="ok">OK</string>
+
+</resources>
