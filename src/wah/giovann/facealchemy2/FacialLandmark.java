@@ -1,3 +1,7 @@
+/**
+ * Facial Landmarking system for Face Alchemy: Responsible for identifying necessary Points and Lines
+ * on bitmap images.
+ */
 package wah.giovann.facealchemy2;
 
 import java.io.ByteArrayOutputStream;
